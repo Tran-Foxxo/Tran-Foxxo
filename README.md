@@ -1,4 +1,6 @@
-### Hi there 👋
+### Looks like you found my Github profile! 
+
+If you ever want to reach me, just message me on discord "@Tran Fox#4662"!
 
 <!--
 **Tran-Foxxo/Tran-Foxxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
